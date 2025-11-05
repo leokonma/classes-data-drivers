@@ -65,11 +65,3 @@ Make a **boxplot** showing the **distribution of arrival delays per origin airpo
 Create a plot colored by **origin airport** and **faceted by carrier**.  
 Which airlines have the greatest variation in delays?
 
----
-
----
-
-## ✅ Deliverables
-- A `.R` or `.Rmd` file with all answers  
-- One plot and a short summary of insights  
-- *(Optional)* Join with `airlines` to show carrier names
